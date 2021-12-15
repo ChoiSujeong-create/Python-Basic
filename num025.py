@@ -1,0 +1,4 @@
+# 정수 2개를 입력받아 합을 출력하는 프로그램
+a, b = input().split()
+c = int(a) + int(b)
+print(c)
